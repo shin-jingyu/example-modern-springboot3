@@ -1,0 +1,5 @@
+app:
+  example:
+    name: example-project-set-240704
+    ttl: 60000
+
